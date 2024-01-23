@@ -2,7 +2,8 @@
 
 <h2>Cyber Security Projects</h2>
 
-- [Active Directory Home Lab](
+- [Active Directory Home Lab]
+- [Azure Cloud Sentinel Lab]
 
 
 <h2>Connect with me:</h2>
